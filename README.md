@@ -1,4 +1,5 @@
 > Live Data Plotting in Python.
+
 This project is a prototype of live data plotting of random stock values using various pythong libraries and MySQL database.
 
 We shall go through the libraries used here:
