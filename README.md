@@ -1,19 +1,19 @@
-Live Data Plotting in Python.
+> Live Data Plotting in Python.
 This project is a prototype of live data plotting of random stock values using various pythong libraries and MySQL database.
 
 We shall go through the libraries used here:
 
->> Preinstalled libs for every version
+> Preinstalled libs for every version
   - time
   - random
   - csv
   - itertools
->> To be downloaded
+> To be downloaded
   - matplotlib
   - pandas
   - mysql.connector
   
-Files Overview
+> Files Overview
  1. MySQL.py
  We start out by creating different tables of stock data for different given companies and storing them in a MySQL database. This data is then compiled into a csv file "data.csv" 
  using the library Pandas.
